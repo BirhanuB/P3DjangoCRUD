@@ -1,1 +1,1 @@
-# Introductory project using Django Web Framework (Python)
+# Django Rest Framework CRUD operations introductory project with Postgres DB
